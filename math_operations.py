@@ -1,4 +1,5 @@
-def add():
+def opers():
+	# math operations
 	a = 10
 	b = 20
 	sum = a + b
@@ -6,3 +7,4 @@ def add():
 	product = a * b
 	div = a / b
 	return sum,diff,product,div
+
